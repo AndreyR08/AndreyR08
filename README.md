@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Andrey 👋
 
-<!--
-**AndreyR08/AndreyR08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer focused on building scalable and maintainable applications.
 
-Here are some ideas to get you started:
+I have experience working with **Java, Spring Boot, and React**, developing backend systems, designing database architectures, and improving system performance. I enjoy solving complex problems, especially related to data handling and system efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**
+- Backend: Java, Spring Boot  
+- Frontend: React, JavaScript  
+- Databases: MySQL, PostgreSQL, Oracle SQL, SQL Server  
+- Tools: Git, Linux, REST APIs  
+
+📌 **What I focus on**
+- Clean and maintainable code  
+- Backend development and APIs  
+- Database design and optimization  
+- Continuous learning and best practices  
+
+🚀 Currently improving my skills in **system design, performance optimization, and modern software architectures**.
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/andreyrc08)
